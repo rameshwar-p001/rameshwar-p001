@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Learning Androoid Studio<br>👯 I’m looking to collaborate on open-source AI tools, React apps, and innovative tech projects.<br>🤝 I’m looking for help with LLM integration and real-time data visualization.<br>🌱 I’m currently learning FastAPI, Tailwind CSS v4.1, and local LLMs like TinyLlama & DeepSeek Coder via Ollama.<br>💬 Ask me about VS Code extensions, React projects, or how to run AI models locally.<br>⚡ Fun fact: I built an AI chatbot that runs offline using a local LLM model – no internet, no API! 🚀
+🔭 I’m currently Learning Android Studio<br>👯 I’m looking to collaborate on open-source AI tools, React apps, and innovative tech projects.<br>🤝 I’m looking for help with LLM integration and real-time data visualization.<br>🌱 I’m currently learning FastAPI, Tailwind CSS v4.1, and local LLMs like TinyLlama & DeepSeek Coder via Ollama.<br>💬 Ask me about VS Code extensions, React projects, or how to run AI models locally.<br>⚡ Fun fact: I built an AI chatbot that runs offline using a local LLM model – no internet, no API! 🚀
 
 
 ## 🌐 Socials:
